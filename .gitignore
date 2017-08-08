@@ -1,4 +1,5 @@
 node_modules/
+stepped-solutions/
 *.zip
 .DS_Store
 .idea
