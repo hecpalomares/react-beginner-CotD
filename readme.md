@@ -1,4 +1,4 @@
-# React For Beginners (Tutorial made by Wes Bos) — [ReactForBeginners.com]
+## React For Beginners <Tutorial made by Wes Bos> [ReactForBeginners.com](https://ReactForBeginners.com)
 
 ### Requirements to Run 
 * NodeJS/NPM Installed
