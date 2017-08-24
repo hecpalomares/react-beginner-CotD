@@ -590,6 +590,7 @@ button.facebook,
 input[type=submit].facebook,
 button.twitter,
 input[type=submit].twitter {
+  font-family: sans-serif;
   border: 0;
   display: block;
   margin-bottom: 2rem;
