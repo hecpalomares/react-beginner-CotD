@@ -2,7 +2,6 @@
   "name": "cotd",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://hecpalomares.github.io/catch-of-the-day-react/",
   "devDependencies": {
     "autoprefixer-stylus": "0.10.0",
     "babel-eslint": "^7.1.1",
@@ -15,6 +14,7 @@
     "stylus": "0.54.5"
   },
   "dependencies": {
+    "gh-pages": "^1.0.0",
     "history": "4.2.0",
     "re-base": "2.2.0",
     "react": "15.3.2",
